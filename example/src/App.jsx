@@ -1,7 +1,7 @@
 import React from 'react';
 
 // import FluidText from 'react-fluid-text';
-import FluidText, { useFluidFontSize } from 'react-fluid-text';
+import FluidText, { useFluidFontSize } from '../../lib';
 
 const App = () => {
   const [ref, fontSize] = useFluidFontSize({ compressor: 0.5 });

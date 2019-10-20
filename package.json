@@ -1,10 +1,15 @@
 {
   "name": "react-fluid-text",
   "version": "0.1.0",
-  "description": "A React Component for rendering big headers that fits the width of their container.",
+  "description": "A React Component for rendering big headings that fits the width of their container.",
   "main": "lib/index.js",
   "repository": "https://github.com/antoniofull/react-fluid-text.git",
   "author": "Antonio Fullone",
+  "keywords": [
+    "reactjs",
+    "big text",
+    "headings"
+  ],
   "license": "MIT",
   "scripts": {
     "build": "rm -rf lib && webpack"
