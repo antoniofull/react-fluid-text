@@ -1,6 +1,4 @@
 import React from 'react';
-
-// import FluidText from 'react-fluid-text';
 import FluidText, { useFluidFontSize } from '../../lib';
 
 const App = () => {
